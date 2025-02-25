@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class CartaoDeCredito {
+public class CartaoDeCredito{
     private double limite;
     private double saldo;
     private List<Compra> compras;
